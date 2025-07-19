@@ -22,9 +22,20 @@ A sleek and modern currency converter built with **React**. This app provides re
 
 ## 📁 Project Structure
 
-
 - `AppHeader.jsx` — Application header with logo and title  
 - `ConverterForm.jsx` — Main form for user input and currency selection  
 - `ResultCard.jsx` — Displays conversion results and exchange rate info  
 - `main.scss` — Central stylesheet implementing a sleek dark theme
+
+## 🚀 Getting Started
+
+```bash
+1. Clone the Repository
+https://github.com/bellatrisa1/currency-app-v2.git
+
+2. Install Dependencies
+npm install
+
+3. Start Development Server
+npm start
 
